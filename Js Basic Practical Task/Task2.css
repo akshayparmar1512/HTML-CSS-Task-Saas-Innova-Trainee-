@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.input-box {
+    display: flex;
+    justify-content: center;
+}
+
+.character-count {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.word-count {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.word-frequency {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.main-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 50px;
+}
+
+/* .user-text {
+    height: 50px;
+    width: 500px;
+
+} */

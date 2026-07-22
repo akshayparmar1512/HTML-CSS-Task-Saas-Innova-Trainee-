@@ -1,0 +1,50 @@
+.calc-container {
+    height: 300px;
+    width: 350px;
+    border: 1px solid black;
+    padding: 25px;
+
+}
+
+.btn-container {
+    padding: 25px;
+}
+
+#num-input1 {
+    width: 130px;
+    margin-left: 5px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+#num-input2 {
+    width: 130px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+
+.input-container {
+    display: flex;
+    gap: 10px;
+}
+
+button {
+    padding: 20px;
+}
+
+h3 {
+    height: 50px;
+    width: 300px;
+    border: 1px solid black;
+    font-size: 18px;
+}
+
+#show-operation {
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 25px;
+    line-height: 50px;
+}

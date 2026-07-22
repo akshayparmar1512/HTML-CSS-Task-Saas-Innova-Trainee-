@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-container {
+    height: 600px;
+    width: 700px;
+    border: 1px solid black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.hidden {
+    visibility: hidden;
+}
